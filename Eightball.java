@@ -36,6 +36,7 @@ public class EightBall {
             } 
             
         }
+        // Closes the Scanners
         ateball.close();
         anotherone.close();
         
