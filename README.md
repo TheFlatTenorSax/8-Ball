@@ -4,5 +4,5 @@ Ask the 8ball a question and it will respond with a creepily realistic answer
 
 Anyways yeah it works
 
-Credits to [P1kxchuuu](https://github.com/P1kxchuuu) for the original code.
+Credits to [P1kxchuuu](https://github.com/P1kxchuuu/Magic-Eight-Ball) for the original code.
 
