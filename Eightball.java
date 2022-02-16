@@ -33,7 +33,13 @@ public class EightBall {
             } else if(Input.equals("No")) {
                 keepGoing = false;
                 System.out.println("Then go put the 8ball back on the store shelf from where you picked it up >:(");
-            } 
+            } else if(Input.equals("yes")) {
+                keepGoing = true; 
+                System.out.println("Alright, shaking again...");
+            } else if(Input.equals("no")) {
+                keepGoing = false;
+                System.out.println("Then go put the 8ball back on the store shelf from where you picked it up >:(");
+            }
             
         }
         
